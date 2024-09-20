@@ -3,7 +3,7 @@
 # Function to show help
 function show_help
 {
-    echo "Usage: knit [-h] [-p] <filename>"
+    echo "Usage: rknit [-h] [-p] <filename>"
     echo "  -h      knit to html"
     echo "  -p      knit to pdf"
     echo "  or use no flags for html output default"

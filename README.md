@@ -5,9 +5,9 @@
 ## Use Case:
 
 ```
-knit -h file.Rmd    # to html output
-knit -p file.Rmd    # to pdf output
-knit file.Rmd       # also to html output (the default)
+rknit -h file.Rmd    # to html output
+rknit -p file.Rmd    # to pdf output
+rknit file.Rmd       # also to html output (the default)
 ```
 
 ## Dependencies
