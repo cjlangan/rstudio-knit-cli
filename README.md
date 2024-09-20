@@ -16,7 +16,7 @@ knit file.Rmd       # also to html output (the default)
 
 ## Installation
 - Download the files from this repo
-- run the installation script
+- run the installation script:
 
 ```bash
 chmod +x install.sh
