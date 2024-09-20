@@ -3,9 +3,10 @@
 # Function to show help
 function show_help
 {
-    echo "Usage: $0 [-h] [-p] <filename>"
+    echo "Usage: knit [-h] [-p] <filename>"
     echo "  -h      knit to html"
     echo "  -p      knit to pdf"
+    echo "  or use no flags for html output default"
 }
 
 # Varibale to hold document output type
